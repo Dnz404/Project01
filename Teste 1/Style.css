@@ -18,4 +18,19 @@ body{
     align-items: center;
     gap: 20px;
     justify-content: space-around;
+    padding: 25px;
+}
+
+.cabecalho-imagem{
+    height: 70px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 20px;
+}
+
+.cabecalho-menu-item{
+    font-family: 'Source Code Pro', monospace;
+
 }
